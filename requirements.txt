@@ -1,0 +1,13 @@
+graphrag
+
+networkx
+langchain
+transformers>=4.48.0
+torch
+sentence-transformers
+pandas
+datasets<3.0.0
+scikit-learn
+peft
+accelerate
+
